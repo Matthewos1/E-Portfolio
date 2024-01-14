@@ -65,7 +65,7 @@ label {
 }
 
 .input:focus, textarea:focus{
-  border-color: #f06449;
+  border-color: #4496d5;
 }
 
 .container {
@@ -97,8 +97,8 @@ label {
   line-height: 1;
 }
 
-.orange {
-  color: #f06449 !important;
+.blue {
+  color: #4496d5 !important;
 }
 
 .link__hover-effect{
@@ -207,7 +207,7 @@ nav,
 }
 
 .social__link {
-  background-color: #f06449;
+  background-color: #4496d5;
   color: white;
   padding: 6px;
   width: 32px;
@@ -408,8 +408,8 @@ nav {
 }
 
 .form__submit{
-  background-color: #f06449;
-  border: 2px solid #f06449;
+  background-color: #4496d5;
+  border: 2px solid #4496d5;
   color: white;
   font-weight: bold;
   width: 100%;
@@ -426,8 +426,8 @@ nav {
 }
 
 .form__submit:active{
-  border-color: #f06449;
-  color: #f06449;
+  border-color: #4496d5;
+  color: #4496d5;
 }
 
 .modal__overlay{
@@ -510,6 +510,7 @@ transition: all 600ms ease;
   border-radius: 20px;
   box-shadow: 0 20px 80px 0 rgb(0, 0, 0, 0.45);
   overflow: hidden;
+  margin-top: 50px;
 
 }
 
